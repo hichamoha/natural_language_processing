@@ -1,0 +1,11 @@
+0       ROOT     ROOT    ROOT    ROOT    ROOT    0     ROOT    _    _   
+1	Individuell	individuell	ADJ	JJ	Case=Nom|Num=Sing	2	amod	_	_
+2	beskattning	beskattning	NOUN	NN	Case=Nom|Num=Sing	0	root	0:root	_
+3       av    av      ADP    PP    _    4     case    _    _
+4       arbetsinkomster    arbetsinkomster    NOUN    NN    Case=Nom|Num=plur    2    nmod    _    _ 
+
+
+
+
+
+Genom     skattereformen     införs     individuell     beskattning     (    särbeskattning    )     av     arbetsinkomster

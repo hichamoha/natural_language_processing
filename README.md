@@ -23,10 +23,9 @@ comment the spell checker implemented by Peter Norvig in "How to Write a Spellin
 ### Assignment 2: Building an inverted index
 In this assignment, we need to write a Python program that first collects all the words from the corpus
 of Selma Lagerl¨of, extracted from Lagerl¨of arkivet at Litteraturbanken. Then, we will learn how to build
-an index from the collected words. At the end, we will get familiar with the Tf-Idf value to represent
+an index from the collected words. At the end, we will get familiar with the **Tf-Idf value** to represent
 documents. An additional task consists in reading about the history of Google indexing by Jeff Dean: "Challenges in Building 
-Large-Scale Information Retrieval Systems", https://static.googleusercontent.com/media/research.google.com/en//people/jeff/
-WSDM09-keynote.pdf
+Large-Scale Information Retrieval Systems", https://static.googleusercontent.com/media/research.google.com/en//people/jeff/WSDM09-keynote.pdf
 
 ### Assignment 2: Language Models
 In this second assignment, we will write Python programs to find n-gram statistics i a corpus of approximately one million words 
@@ -35,8 +34,8 @@ we will deal with building a segmenter and discussing the perplexity concept usi
 models. At the end, as an application of n-grams, we will execute the Jupyter notebook by Peter Norvig.
 
 ### Assignment 3: Language Detector
-In this assignment, we will apply and explore the supervised learning algorithm Multi-layer Perceptron
-(MLP) for building a language classifier using Scikit-learn. We will consider Tatoeba dataset limited
+In this assignment, we will apply and explore the supervised learning algorithm **Multi-layer Perceptron
+(MLP)** for building a language classifier using Scikit-learn. We will consider **Tatoeba dataset** limited
 to the three languages only: French (fra), English (eng), and Swedish (swe). The resulting language
 detector is inspired from Google’s Compact Language Detector version 3, also called CLD3: https://github.com/google/cld3
 
@@ -57,7 +56,7 @@ knowledge base used in the IBM Watson system [Fan, Ferrucci and al. (2010)] "PRI
  a Large Scale Lexicalized Relation Resource". IBM Watson Research Lab: https://www.aclweb.org/anthology/W10-0915.
 pdf.
 
-### Assignment 6: Dependency Parsing
+### Assignment 6: Dependency Parsing using Machine Learning Techniques
 In this assignment, we are going to explore dependency graph and understand the principles of a
 transition-based parser. Using supervised machine learning techniques, we will extract features to
 learn parsing actions from an hand-annotated corpus, and the annotated texts are then used to train
